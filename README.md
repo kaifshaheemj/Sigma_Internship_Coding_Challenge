@@ -1,4 +1,4 @@
-```markdown
+
 # Sigma Hackathon Coding Challenge using APPLE stock data
 
 ## Description
@@ -10,7 +10,7 @@ This QuantRocket project retrieves and analyzes daily Apple (AAPL) stock data fo
 This project focuses on the analysis and forecasting of time series data using various techniques. The main features implemented in the project include:
 
 ### Data Extraction using Quantrocket
-
+```markdown
 ```python
 import pandas as pd
 from quantrocket.history import get_prices
