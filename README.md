@@ -1,7 +1,5 @@
 # Sigma_Internship_Coding_Challenge
 
-# Sigma Internship Coding Challenge
-
 ## Goal
 
 This exercise aims to familiarize participants with the Quantrocket platform, testing coding and algorithm skills, and setting up a minimalist trading workflow.
