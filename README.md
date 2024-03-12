@@ -14,9 +14,9 @@ This exercise aims to familiarize participants with the Quantrocket platform, te
 
 ### Objective
 
-Build a simple model to decide whether to place a buy order on day d+1 to maximize portfolio value, using pre-specified logic. Publish both the output and your code.
+Model to decide whether to place a buy order on day d+1 to maximize portfolio value, using pre-specified logic. Publish both the output and your code.
 
-### Logic Details
+### Pre-Specified Logic Details
 
 - Let p(d) denote the close price on day d.
 - Define returns r(d) as r(d) = (p(d) - p(d-1)) / p(d-1).
@@ -40,7 +40,3 @@ Submit the following in your GitHub repository:
 - The final value V(N)
 - The optimal buy indices
 - Your source code
-
-### Additional Information
-
-Feel free to join the Sigma Slack group for any questions, or contact @Arpit Goel directly during the challenge.
