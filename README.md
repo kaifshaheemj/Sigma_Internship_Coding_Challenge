@@ -3,7 +3,7 @@
 
 ## Description
 
-This QuantRocket project retrieves and analyzes daily Apple (AAPL) stock data for the year 2023, specifically focusing on the date and closing price. The project utilizes QuantRocket's data fetching capabilities to obtain historical data and perform basic analysis.
+This QuantRocket project retrieves and analyzes daily Apple (AAPL) stock data for the year 2023, specifically focusing on the date and closing price. The project utilizes QuantRocket's data fetching capabilities to obtain historical data.
 
 ## Analysis and Model Building
 
