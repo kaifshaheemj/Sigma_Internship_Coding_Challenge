@@ -1,5 +1,5 @@
 
-# Sigma Hackathon Coding Challenge using APPLE stock data
+# Sigma Internship Coding Challenge using APPLE Stock data
 
 ## Description
 
