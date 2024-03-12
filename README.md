@@ -117,5 +117,3 @@ In this project, we applied time series analysis methodologies, notably employin
 
 Thank you for exploring this time series forecasting project!
 ```
-
-This markdown code can be saved in a README.md file in your project directory. Adjust the content as needed based on your actual implementation details.
