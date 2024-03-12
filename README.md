@@ -116,4 +116,3 @@ These are the forecasted stock prices for the next 14 days based on the ARIMA mo
 In this project, we applied time series analysis methodologies, notably employing the ARIMA model, to predict the future stock prices of Apple over the upcoming 15-day period. The process encompassed retrieving historical stock price data for the entirety of 2023, establishing and fine-tuning an ARIMA model, and presenting graphical representations of both the historical and projected stock prices.
 
 Thank you for exploring this time series forecasting project!
-```
